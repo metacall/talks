@@ -1,0 +1,3 @@
+[submodule "HolyJS-2021/demos/3/ml-news-article-scraper-example"]
+	path = HolyJS-2021/demos/3/ml-news-article-scraper-example
+	url = https://github.com/metacall/ml-news-article-scraper-example
