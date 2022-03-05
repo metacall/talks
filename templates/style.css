@@ -3,7 +3,7 @@
 }
 body{
     height:100vh;
-    background-image: url("/templates/bg.jpeg");
+    background-image: url("bg.jpeg");
     background-position: center;
     position: relative;
     overflow: hidden;
